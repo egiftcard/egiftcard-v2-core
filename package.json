@@ -1,11 +1,11 @@
 {
   "name": "@egiftcard/v2-core",
-  "description": "🎛 Core contracts for the egiftcardV2 protocol",
+  "description": "🎛 Core contracts for the EgiftcardV2 protocol",
   "version": "1.0.1",
   "homepage": "https://egiftcard.cc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/egiftcard/egiftcard-v2-core"
+    "url": "https://github.com/Egiftcard/egiftcard-v2-core"
   },
   "keywords": [
     "egiftcard",
